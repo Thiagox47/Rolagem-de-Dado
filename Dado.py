@@ -82,7 +82,7 @@ def diceroll():
                 print("Entrada inválida. Por favor, digite S ou N.")
                 sleep(1)
                 yesorno = input("Você deseja continuar rolando dados?[S/N]: ").lower().strip()
-            print("Até a mais!")
+        print("Até mais!")
 
 def main():
     print('1. Entrar\n2. Registrar\n')
